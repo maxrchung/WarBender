@@ -2,6 +2,7 @@
              debug="false" hostspecific="false" #>
 <#@ output extension=".cs" #>
 
+﻿<#@ assembly name="NetStandard" #>
 <#@ assembly name="System" #>
 <#@ assembly name="System.Core" #>
 <#@ assembly name="System.Runtime" #>
