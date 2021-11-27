@@ -1,4 +1,6 @@
-﻿<#@ template language="VB" compilerOptions="/optionstrict- /optioninfer+ /optionexplicit+"
+﻿﻿<#@ assembly name="NetStandard" #>
+
+<#@ template language="VB" compilerOptions="/optionstrict- /optioninfer+ /optionexplicit+"
              debug="false" hostspecific="false" #>
 <#@ output extension=".cs" #>
 
